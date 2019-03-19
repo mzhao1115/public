@@ -1,7 +1,0 @@
-#!/bin/bash
-
-yum install python-setuptools -y
-
-easy_install pip
-
-pip install shadowsocks
